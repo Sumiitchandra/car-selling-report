@@ -1,0 +1,61 @@
+create database cars
+use cars
+select * from `car data`
+
+-- 🔹 Question: How do you get all cars from the Cars table where the Make is "Toyota"?
+select * from `car data` where maker like "Jaguar"
+
+-- 🔹 Question: How do you retrieve all cars ordered by CostPrice in descending order?
+Select * from `car data` order by CostPrice desc
+
+-- 🔹 Question: How do you get a list of unique car brands (Make) in the dataset?
+select distinct Maker from `car data` 
+
+-- 🔹 Question: How many cars are there in the dataset?
+select count(*) as Total_cars from `car data`
+
+-- 🔹 Question: How do you find the number of cars per brand?
+select Maker,count(*) as car_counts from `car data` group by maker
+
+-- 🔹 Question: How do you find the average CostPrice of all cars?
+select avg(CostPrice) as average_cost from `car data`
+select Model,max(CostPrice) as max_cost from `car data` group by(Model)
+
+-- 🔹 Question: How do you find car brands with more than 10 cars in the dataset?
+select maker,count(*) as Car_total from `car data` group by maker Having count(*)>40
+
+-- 🔹 Question: How do you categorize cars as "Expensive" if CostPrice > 50000, otherwise "Affordable"?
+SELECT Maker, Model, CostPrice,CASE WHEN CostPrice > 50000 THEN 'Expensive'
+ELSE 'Affordable'
+END AS Price_Category
+FROM `Car data`
+
+-- Find all cars with a CostPrice greater than 50,000.
+select * from `car data` where CostPrice> 50000
+
+--  List all cars sorted by Mileage in descending order.
+select Maker,Model,Mileage from `car data` order by Mileage desc
+
+-- Find unique car brands available in the dataset.
+select distinct maker from `car data`
+
+-- Find all cars that are either "Coupe" or "Saloon".
+select Maker,Model,CostPrice,VehicleType from `car data` where VehicleType in ("Coupe", "Saloon")
+
+--  Find all cars where CostPrice is between 30,000 and 60,000.
+select * from `car data` where `CostPrice` between 30000 and 60000
+
+-- Find all cars whose Model name starts with "A".
+select * from `car data` where `Model` like 'A%'
+
+-- Find all cars that do not have a color assigned (NULL values).
+select * from `car data` where `colour` is null
+
+-- Count how many cars are in the dataset.
+select count(*) from `car data`
+
+--  Find the average CostPrice of all cars.
+select avg(`CostPrice`) as avg_carcost from `car data`
+
+-- Find the most expensive car (MAX) and cheapest car (MIN).
+select max(`CostPrice`) as max_cost from `car data`
