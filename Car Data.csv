@@ -1,0 +1,462 @@
+Maker,Model,ColorID,VehicleType,CostPrice,SpareParts,LaborCost,Registration_Date,Mileage,PurchaseDate,Colour
+Jaguar,XK,5,Convertible,37500,400,325,05-09-2007,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,5,Convertible,42500,400,325,05-09-2007,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,5,Convertible,42500,400,325,05-09-2007,52500,01-Jan-12,Canary Yellow
+Aston Martin,DB4,6,Coupe,75890,400,147,09-08-2006,52500,01-Jan-12,Night Blue
+TVR,Tuscan,2,Coupe,37500,400,325,9/20/2006,52500,01-Jan-12,Blue
+TVR,Cerbera,4,Coupe,37500,400,325,9/20/2006,52500,01-Jan-12,Silver
+TVR,Tuscan,6,Coupe,37500,400,325,9/20/2006,52500,01-Jan-12,Night Blue
+TVR,Cerbera,4,Coupe,37500,400,325,9/20/2006,52500,01-Jan-12,Silver
+TVR,Tuscan,2,Coupe,37500,400,325,05-09-2007,52500,01-Jan-12,Blue
+Jaguar,XK,2,Coupe,37500,400,325,9/20/2006,52500,01-Jan-12,Blue
+Jaguar,XK,6,Coupe,62000,400,250,9/20/2005,52500,01-Jan-12,Night Blue
+MGB,GT,3,Coupe,4500,400,325,9/20/2005,52500,01-Jan-12,Green
+MGB,GT,2,Coupe,4500,400,325,9/20/1974,52500,01-Jan-12,Blue
+MGB,GT,3,Coupe,8500,400,325,9/20/1974,52500,01-Jan-12,Green
+MGB,GT,5,Coupe,8500,400,325,9/20/1976,52500,01-Jan-12,Canary Yellow
+Triumph,TR7,8,Coupe,8500,400,325,9/20/1978,52500,01-Jan-12,British Racing Green
+Triumph,TR4,6,Coupe,17000,400,325,9/20/1976,52500,01-Jan-12,Night Blue
+Triumph,TR4,5,Coupe,8500,400,325,9/20/1976,52500,01-Jan-12,Canary Yellow
+Triumph,TR5,2,Coupe,17000,400,325,9/20/1974,52500,01-Jan-12,Blue
+Triumph,TR4,1,Coupe,17000,400,325,9/20/1974,52500,01-Jan-12,Red
+Aston Martin,DB4,6,Coupe,80890,400,147,09-08-2006,52500,01-Jan-12,Night Blue
+TVR,Tuscan,2,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Blue
+TVR,Cerbera,4,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Silver
+TVR,Tuscan,6,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Night Blue
+TVR,Cerbera,4,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Silver
+TVR,Tuscan,2,Coupe,42500,400,325,05-09-2007,52500,01-Jan-12,Blue
+Jaguar,XK,2,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Blue
+Jaguar,XK,1,Coupe,67000,400,250,9/20/2005,52500,01-Jan-12,Red
+MGB,GT,1,Coupe,9500,400,325,9/20/2005,52500,01-Jan-12,Red
+MGB,GT,2,Coupe,9500,400,325,9/20/1974,52500,01-Jan-12,Blue
+MGB,GT,3,Coupe,13500,400,325,9/20/1974,52500,01-Jan-12,Green
+MGB,GT,5,Coupe,13500,400,325,9/20/1976,52500,01-Jan-12,Canary Yellow
+Triumph,TR7,8,Coupe,13500,400,325,9/20/1978,52500,01-Jan-12,British Racing Green
+Triumph,TR4,6,Coupe,22000,400,325,9/20/1976,52500,01-Jan-12,Night Blue
+Triumph,TR4,5,Coupe,13500,400,325,9/20/1976,52500,01-Jan-12,Canary Yellow
+Triumph,TR5,2,Coupe,22000,400,325,9/20/1974,52500,01-Jan-12,Blue
+Triumph,TR4,1,Coupe,22000,400,325,9/20/1974,52500,01-Jan-12,Red
+Aston Martin,DB9,6,Coupe,80890,400,147,09-08-2006,52500,01-Jan-12,Night Blue
+TVR,Tuscan,2,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Blue
+TVR,Tuscan,4,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Silver
+TVR,Tuscan,6,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Night Blue
+TVR,Tuscan,4,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Silver
+TVR,Tuscan,2,Coupe,42500,400,325,05-09-2007,52500,01-Jan-12,Blue
+Jaguar,XK,2,Coupe,42500,400,325,9/20/2006,52500,01-Jan-12,Blue
+Jaguar,XK,1,Coupe,67000,400,250,9/20/2005,52500,01-Jan-12,Red
+MGB,GT,1,Coupe,9500,400,325,9/20/2005,52500,01-Jan-12,Red
+MGB,GT,2,Coupe,9500,400,325,9/20/1974,52500,01-Jan-12,Blue
+MGB,GT,3,Coupe,13500,400,325,9/20/1974,52500,01-Jan-12,Green
+MGB,GT,5,Coupe,13500,400,325,9/20/1976,52500,01-Jan-12,Canary Yellow
+Triumph,TR4,8,Coupe,13500,400,325,9/20/1978,52500,01-Jan-12,British Racing Green
+Triumph,TR4,6,Coupe,22000,400,325,9/20/1976,52500,01-Jan-12,Night Blue
+Triumph,TR4,5,Coupe,13500,400,325,9/20/1976,52500,01-Jan-12,Canary Yellow
+Triumph,TR4,2,Coupe,22000,400,325,9/20/1974,52500,01-Jan-12,Blue
+Triumph,TR4,1,Coupe,22000,400,325,9/20/1974,52500,01-Jan-12,Red
+Rolls Royce,Silver Seraph,1,Saloon,62000,400,951,01-01-1999,52500,01-Jan-12,Red
+Rolls Royce,Silver Shadow,8,Saloon,62000,400,750,01-08-1985,52500,01-Jan-12,British Racing Green
+Jaguar,XK,3,Saloon,37500,400,325,05-09-2007,52500,01-Jan-12,Green
+Jaguar,XK,5,Saloon,37500,400,325,9/20/2006,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,5,Saloon,62000,400,250,9/20/2005,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,2,Saloon,62000,400,250,9/20/2005,52500,01-Jan-12,Blue
+Rolls Royce,Silver Seraph,1,Saloon,67000,400,951,01-01-1999,52500,01-Jan-12,Red
+Rolls Royce,Silver Shadow,8,Saloon,67000,400,750,01-08-1985,52500,01-Jan-12,British Racing Green
+Jaguar,XK,3,Saloon,42500,400,325,05-09-2007,52500,01-Jan-12,Green
+Jaguar,XK,5,Saloon,42500,400,325,9/20/2006,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,5,Saloon,67000,400,250,9/20/2005,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,2,Saloon,67000,400,250,9/20/2005,52500,01-Jan-12,Blue
+Rolls Royce,Camargue,1,Saloon,67000,400,951,01-01-1999,52500,01-Jan-12,Red
+Rolls Royce,Camargue,8,Saloon,67000,400,750,01-08-1985,52500,01-Jan-12,British Racing Green
+Jaguar,XK,3,Saloon,42500,400,325,05-09-2007,52500,01-Jan-12,Green
+Jaguar,XK,5,Saloon,42500,400,325,9/20/2006,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,5,Saloon,67000,400,250,9/20/2005,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,2,Saloon,67000,400,250,9/20/2005,52500,01-Jan-12,Blue
+Bentley,Continental,1,Convertible,62000,1950,486,05-09-2007,52500,01-Jan-12,Red
+Bentley,Continental,1,Convertible,67000,1950,486,05-09-2007,52500,01-Jan-12,Red
+Bentley,Continental,1,Convertible,67000,1950,486,05-09-2007,52500,01-Jan-12,Red
+Aston Martin,Vanquish,1,Coupe,125000,1950,752,09-01-2001,52500,01-Jan-12,Red
+Jaguar,XK,9,Coupe,25000,1950,486,09-01-2000,52500,01-Jan-12,Dark Purple
+Jaguar,XK,5,Coupe,37500,1950,486,09-01-2000,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,3,Coupe,25000,1950,486,09-01-2000,52500,01-Jan-12,Green
+Jaguar,XK,9,Coupe,37500,1950,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Jaguar,XK,8,Coupe,25000,1950,750,9/20/2006,52500,01-Jan-12,British Racing Green
+Jaguar,XK,5,Coupe,37500,1950,750,9/20/2006,52500,01-Jan-12,Canary Yellow
+Aston Martin,Vanquish,1,Coupe,130000,1950,752,09-01-2001,52500,01-Jan-12,Red
+Jaguar,XK,9,Coupe,30000,1950,486,09-01-2000,52500,01-Jan-12,Dark Purple
+Jaguar,XK,5,Coupe,42500,1950,486,09-01-2000,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,3,Coupe,30000,1950,486,09-01-2000,52500,01-Jan-12,Green
+Jaguar,XK,9,Coupe,42500,1950,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Jaguar,XK,8,Coupe,30000,1950,750,9/20/2006,52500,01-Jan-12,British Racing Green
+Jaguar,XK,5,Coupe,42500,1950,750,9/20/2006,52500,01-Jan-12,Canary Yellow
+Aston Martin,DB9,1,Coupe,130000,1950,752,09-01-2001,52500,01-Jan-12,Red
+Jaguar,XK,9,Coupe,30000,1950,486,09-01-2000,52500,01-Jan-12,Dark Purple
+Jaguar,XK,5,Coupe,42500,1950,486,09-01-2000,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,3,Coupe,30000,1950,486,09-01-2000,52500,01-Jan-12,Green
+Jaguar,XK,9,Coupe,42500,1950,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Jaguar,XK,8,Coupe,30000,1950,750,9/20/2006,52500,01-Jan-12,British Racing Green
+Jaguar,XK,5,Coupe,42500,1950,750,9/20/2006,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,8,Saloon,37500,1950,486,09-01-2000,52500,01-Jan-12,British Racing Green
+Jaguar,XJ12,7,Saloon,25000,1950,486,09-01-2000,52500,01-Jan-12,Black
+Jaguar,XJ12,5,Saloon,25000,1950,486,09-01-2000,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,1,Saloon,25000,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XJ6,1,Saloon,37500,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XJ6,1,Saloon,25000,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XK,6,Saloon,25000,1950,750,9/20/2006,52500,01-Jan-12,Night Blue
+Jaguar,XK,4,Saloon,25000,1950,1250,9/20/2006,52500,01-Jan-12,Silver
+Bentley,Turbo R,4,Saloon,25700,1950,987,05-09-2007,52500,01-Jan-12,Silver
+Bentley,Continental,5,Saloon,62000,1950,1250,05-09-2007,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,6,Saloon,25700,1950,1250,05-09-2007,52500,01-Jan-12,Night Blue
+Bentley,Azure,2,Saloon,25700,1950,750,05-09-2007,52500,01-Jan-12,Blue
+Bentley,Turbo R,1,Saloon,25700,1950,750,05-09-2007,52500,01-Jan-12,Red
+Bentley,Turbo R,1,Saloon,62000,1950,750,05-09-2007,52500,01-Jan-12,Red
+Jaguar,XJ6,8,Saloon,42500,1950,486,09-01-2000,52500,01-Jan-12,British Racing Green
+Jaguar,XJ12,7,Saloon,30000,1950,486,09-01-2000,52500,01-Jan-12,Black
+Jaguar,XJ12,5,Saloon,30000,1950,486,09-01-2000,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,1,Saloon,30000,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XJ6,1,Saloon,42500,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XJ6,1,Saloon,30000,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XK,5,Saloon,30000,1950,750,9/20/2006,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,4,Saloon,30000,1950,1250,9/20/2006,52500,01-Jan-12,Silver
+Bentley,Turbo R,4,Saloon,30700,1950,987,05-09-2007,52500,01-Jan-12,Silver
+Bentley,Continental,5,Saloon,67000,1950,1250,05-09-2007,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,6,Saloon,30700,1950,1250,05-09-2007,52500,01-Jan-12,Night Blue
+Bentley,Azure,2,Saloon,30700,1950,750,05-09-2007,52500,01-Jan-12,Blue
+Bentley,Turbo R,1,Saloon,30700,1950,750,05-09-2007,52500,01-Jan-12,Red
+Bentley,Turbo R,1,Saloon,67000,1950,750,05-09-2007,52500,01-Jan-12,Red
+Jaguar,XK,8,Saloon,42500,1950,486,09-01-2000,52500,01-Jan-12,British Racing Green
+Jaguar,XK,7,Saloon,30000,1950,486,09-01-2000,52500,01-Jan-12,Black
+Jaguar,XK,5,Saloon,30000,1950,486,09-01-2000,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,1,Saloon,30000,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XK,1,Saloon,42500,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XK,1,Saloon,30000,1950,987,9/20/2006,52500,01-Jan-12,Red
+Jaguar,XK,5,Saloon,30000,1950,750,9/20/2006,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,4,Saloon,30000,1950,1250,9/20/2006,52500,01-Jan-12,Silver
+Bentley,Continental,4,Saloon,30700,1950,987,05-09-2007,52500,01-Jan-12,Silver
+Bentley,Continental,5,Saloon,67000,1950,1250,05-09-2007,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,6,Saloon,30700,1950,1250,05-09-2007,52500,01-Jan-12,Night Blue
+Bentley,Continental,2,Saloon,30700,1950,750,05-09-2007,52500,01-Jan-12,Blue
+Bentley,Continental,1,Saloon,30700,1950,750,05-09-2007,52500,01-Jan-12,Red
+Bentley,Continental,1,Saloon,67000,1950,750,05-09-2007,52500,01-Jan-12,Red
+Bentley,Continental,9,Convertible,62000,2570,1250,05-09-2007,52500,01-Jan-12,Dark Purple
+MGB,GT,1,Convertible,4500,250,325,9/20/1976,52500,01-Jan-12,Red
+MGB,GT,3,Convertible,8500,250,325,9/20/1974,52500,01-Jan-12,Green
+MGB,GT,4,Convertible,4500,250,325,9/20/1974,52500,01-Jan-12,Silver
+Bentley,Continental,5,Convertible,67000,2570,1250,05-09-2007,52500,01-Jan-12,Canary Yellow
+MGB,GT,3,Convertible,13500,250,325,9/20/1974,52500,01-Jan-12,Green
+MGB,GT,1,Convertible,9500,250,325,9/20/1976,52500,01-Jan-12,Red
+MGB,GT,4,Convertible,9500,250,325,9/20/1974,52500,01-Jan-12,Silver
+Bentley,Continental,5,Convertible,67000,2570,1250,05-09-2007,52500,01-Jan-12,Canary Yellow
+MGB,GT,3,Convertible,13500,250,325,9/20/1974,52500,01-Jan-12,Green
+MGB,GT,1,Convertible,9500,250,325,9/20/1976,52500,01-Jan-12,Red
+MGB,GT,4,Convertible,9500,250,325,9/20/1974,52500,01-Jan-12,Silver
+Aston Martin,DB7,1,Coupe,23500,900,550,05-08-1992,52500,01-Jan-12,Red
+Aston Martin,DB4,6,Coupe,99000,750,750,05-06-1975,52500,01-Jan-12,Night Blue
+Aston Martin,Rapide,7,Coupe,155000,600,570,09-08-2004,52500,01-Jan-12,Black
+Aston Martin,DB9,9,Coupe,75890,500,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Aston Martin,DB4,8,Coupe,75890,600,963,1/31/1999,52500,01-Jan-12,British Racing Green
+Aston Martin,DB4,5,Coupe,75890,800,852,05-04-2006,52500,01-Jan-12,Canary Yellow
+Aston Martin,Vanquish,4,Coupe,62000,750,654,05-08-1998,52500,01-Jan-12,Silver
+Aston Martin,Vanquish,3,Coupe,62000,850,984,06-01-1997,52500,01-Jan-12,Green
+Aston Martin,DB9,2,Coupe,62000,1500,486,02-02-2002,52500,01-Jan-12,Blue
+Jaguar,XK,9,Coupe,25000,2570,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Jaguar,XK,7,Coupe,37500,2570,987,06-01-1997,52500,01-Jan-12,Black
+Bentley,Continental,5,Coupe,62000,2570,987,05-09-2007,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,9,Coupe,62000,2570,486,9/20/2006,52500,01-Jan-12,Dark Purple
+Jaguar,XK,4,Coupe,62000,250,250,9/20/2005,52500,01-Jan-12,Silver
+MGB,GT,1,Coupe,4500,250,325,9/20/1974,52500,01-Jan-12,Red
+MGB,GT,1,Coupe,8500,250,325,9/20/1974,52500,01-Jan-12,Red
+MGB,GT,8,Coupe,4500,250,325,9/20/1976,52500,01-Jan-12,British Racing Green
+Triumph,TR4,7,Coupe,8500,250,325,9/20/1974,52500,01-Jan-12,Black
+Triumph,TR5,9,Coupe,17000,250,325,9/20/1974,52500,01-Jan-12,Dark Purple
+Triumph,TR4,2,Coupe,17000,50,325,9/20/1974,52500,01-Jan-12,Blue
+Triumph,TR7,1,Coupe,17000,50,325,9/20/1978,52500,01-Jan-12,Red
+Triumph,TR4,3,Coupe,17000,75,325,9/20/1974,52500,01-Jan-12,Green
+Triumph,TR5,4,Coupe,17000,150,450,9/20/2005,52500,01-Jan-12,Silver
+Aston Martin,DB7,1,Coupe,28500,900,550,05-08-1992,52500,01-Jan-12,Red
+Aston Martin,DB4,6,Coupe,104000,750,750,05-06-1975,52500,01-Jan-12,Night Blue
+Aston Martin,Rapide,7,Coupe,160000,600,570,09-08-2004,52500,01-Jan-12,Black
+Aston Martin,DB9,9,Coupe,80890,500,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Aston Martin,DB4,7,Coupe,80890,600,963,1/31/1999,52500,01-Jan-12,Black
+Aston Martin,DB4,5,Coupe,80890,800,852,05-04-2006,52500,01-Jan-12,Canary Yellow
+Aston Martin,Vanquish,4,Coupe,67000,750,654,05-08-1998,52500,01-Jan-12,Silver
+Aston Martin,Vanquish,3,Coupe,67000,850,984,06-01-1997,52500,01-Jan-12,Green
+Aston Martin,DB9,2,Coupe,67000,1500,486,02-02-2002,52500,01-Jan-12,Blue
+Jaguar,XK,9,Coupe,30000,2570,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Jaguar,XK,5,Coupe,42500,2570,987,06-01-1997,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,5,Coupe,67000,2570,987,05-09-2007,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,9,Coupe,67000,2570,486,9/20/2006,52500,01-Jan-12,Dark Purple
+Jaguar,XK,4,Coupe,67000,250,250,9/20/2005,52500,01-Jan-12,Silver
+MGB,GT,1,Coupe,9500,250,325,9/20/1974,52500,01-Jan-12,Red
+MGB,GT,1,Coupe,13500,250,325,9/20/1974,52500,01-Jan-12,Red
+MGB,GT,8,Coupe,9500,250,325,9/20/1976,52500,01-Jan-12,British Racing Green
+Triumph,TR4,7,Coupe,13500,250,325,9/20/1974,52500,01-Jan-12,Black
+Triumph,TR5,9,Coupe,22000,250,325,9/20/1974,52500,01-Jan-12,Dark Purple
+Triumph,TR4,2,Coupe,22000,50,325,9/20/1974,52500,01-Jan-12,Blue
+Triumph,TR7,1,Coupe,22000,50,325,9/20/1978,52500,01-Jan-12,Red
+Triumph,TR4,3,Coupe,22000,75,325,9/20/1974,52500,01-Jan-12,Green
+Triumph,TR5,4,Coupe,22000,150,450,9/20/2005,52500,01-Jan-12,Silver
+Aston Martin,DB9,1,Coupe,28500,900,550,05-08-1992,52500,01-Jan-12,Red
+Aston Martin,DB9,6,Coupe,104000,750,750,05-06-1975,52500,01-Jan-12,Night Blue
+Aston Martin,DB9,7,Coupe,160000,600,570,09-08-2004,52500,01-Jan-12,Black
+Aston Martin,DB9,9,Coupe,80890,500,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Aston Martin,DB9,7,Coupe,80890,600,963,1/31/1999,52500,01-Jan-12,Black
+Aston Martin,DB9,5,Coupe,80890,800,852,05-04-2006,52500,01-Jan-12,Canary Yellow
+Aston Martin,DB9,4,Coupe,67000,750,654,05-08-1998,52500,01-Jan-12,Silver
+Aston Martin,DB9,3,Coupe,67000,850,984,06-01-1997,52500,01-Jan-12,Green
+Aston Martin,DB9,2,Coupe,67000,1500,486,02-02-2002,52500,01-Jan-12,Blue
+Jaguar,XK,9,Coupe,30000,2570,987,06-01-1997,52500,01-Jan-12,Dark Purple
+Jaguar,XK,5,Coupe,42500,2570,987,06-01-1997,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,5,Coupe,67000,2570,987,05-09-2007,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,9,Coupe,67000,2570,486,9/20/2006,52500,01-Jan-12,Dark Purple
+Jaguar,XK,4,Coupe,67000,250,250,9/20/2005,52500,01-Jan-12,Silver
+MGB,GT,1,Coupe,9500,250,325,9/20/1974,52500,01-Jan-12,Red
+MGB,GT,1,Coupe,13500,250,325,9/20/1974,52500,01-Jan-12,Red
+MGB,GT,8,Coupe,9500,250,325,9/20/1976,52500,01-Jan-12,British Racing Green
+Triumph,TR4,7,Coupe,13500,250,325,9/20/1974,52500,01-Jan-12,Black
+Triumph,TR4,9,Coupe,22000,250,325,9/20/1974,52500,01-Jan-12,Dark Purple
+Triumph,TR4,2,Coupe,22000,50,325,9/20/1974,52500,01-Jan-12,Blue
+Triumph,TR4,1,Coupe,22000,50,325,9/20/1978,52500,01-Jan-12,Red
+Triumph,TR4,3,Coupe,22000,75,325,9/20/1974,52500,01-Jan-12,Green
+Triumph,TR4,4,Coupe,22000,150,450,9/20/2005,52500,01-Jan-12,Silver
+Rolls Royce,Camargue,1,Saloon,50000,500,750,01-08-1985,52500,01-Jan-12,Red
+Rolls Royce,Silver Ghost,3,Saloon,75000,750,550,09-08-2006,52500,01-Jan-12,Green
+Rolls Royce,Camargue,5,Saloon,62000,2500,550,01-08-1985,52500,01-Jan-12,Canary Yellow
+Rolls Royce,Silver Ghost,5,Saloon,62000,600,570,09-08-2006,52500,01-Jan-12,Canary Yellow
+Rolls Royce,Silver Ghost,3,Saloon,75890,600,987,05-10-1997,52500,01-Jan-12,Green
+Rolls Royce,Silver Shadow,1,Saloon,75890,450,321,06-08-2005,52500,01-Jan-12,Red
+Rolls Royce,Silver Seraph,1,Saloon,75890,200,987,06-01-1997,52500,01-Jan-12,Red
+Rolls Royce,Silver Ghost,1,Saloon,75890,300,321,06-01-1997,52500,01-Jan-12,Red
+Rolls Royce,Phantom,8,Saloon,62000,300,654,5/25/2007,52500,01-Jan-12,British Racing Green
+Jaguar,XJ12,5,Saloon,25000,2570,987,06-01-1997,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,3,Saloon,37500,2570,1250,9/20/2006,52500,01-Jan-12,Green
+Bentley,Arnage,2,Saloon,25700,2570,1250,9/20/2006,52500,01-Jan-12,Blue
+Bentley,Continental,8,Saloon,25700,2570,987,05-09-2007,52500,01-Jan-12,British Racing Green
+Bentley,Continental,8,Saloon,62000,2570,486,9/20/2006,52500,01-Jan-12,British Racing Green
+Bentley,Continental,7,Saloon,62000,2570,486,9/20/2006,52500,01-Jan-12,Black
+Bentley,Azure,6,Saloon,25700,2570,486,9/20/2006,52500,01-Jan-12,Night Blue
+Jaguar,XJ6,5,Saloon,25700,250,250,9/20/2005,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,4,Saloon,25700,250,250,9/20/2005,52500,01-Jan-12,Silver
+Rolls Royce,Camargue,4,Saloon,55000,500,750,01-08-1985,52500,01-Jan-12,Silver
+Rolls Royce,Silver Ghost,3,Saloon,80000,750,550,09-08-2006,52500,01-Jan-12,Green
+Rolls Royce,Camargue,4,Saloon,67000,2500,550,01-08-1985,52500,01-Jan-12,Silver
+Rolls Royce,Silver Ghost,4,Saloon,67000,600,570,09-08-2006,52500,01-Jan-12,Silver
+Rolls Royce,Silver Ghost,3,Saloon,80890,600,987,05-10-1997,52500,01-Jan-12,Green
+Rolls Royce,Silver Shadow,1,Saloon,80890,450,321,06-08-2005,52500,01-Jan-12,Red
+Rolls Royce,Silver Seraph,7,Saloon,80890,200,987,06-01-1997,52500,01-Jan-12,Black
+Rolls Royce,Silver Ghost,1,Saloon,80890,300,321,06-01-1997,52500,01-Jan-12,Red
+Rolls Royce,Phantom,8,Saloon,67000,300,654,5/25/2007,52500,01-Jan-12,British Racing Green
+Jaguar,XJ12,5,Saloon,30000,2570,987,06-01-1997,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,3,Saloon,42500,2570,1250,9/20/2006,52500,01-Jan-12,Green
+Bentley,Arnage,5,Saloon,30700,2570,1250,9/20/2006,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,8,Saloon,30700,2570,987,05-09-2007,52500,01-Jan-12,British Racing Green
+Bentley,Continental,8,Saloon,67000,2570,486,9/20/2006,52500,01-Jan-12,British Racing Green
+Bentley,Continental,7,Saloon,67000,2570,486,9/20/2006,52500,01-Jan-12,Black
+Bentley,Azure,6,Saloon,30700,2570,486,9/20/2006,52500,01-Jan-12,Night Blue
+Jaguar,XJ6,5,Saloon,30700,250,250,9/20/2005,52500,01-Jan-12,Canary Yellow
+Jaguar,XJ6,4,Saloon,30700,250,250,9/20/2005,52500,01-Jan-12,Silver
+Rolls Royce,Camargue,4,Saloon,55000,500,750,01-08-1985,52500,01-Jan-12,Silver
+Rolls Royce,Camargue,3,Saloon,80000,750,550,09-08-2006,52500,01-Jan-12,Green
+Rolls Royce,Camargue,4,Saloon,67000,2500,550,01-08-1985,52500,01-Jan-12,Silver
+Rolls Royce,Camargue,4,Saloon,67000,600,570,09-08-2006,52500,01-Jan-12,Silver
+Rolls Royce,Camargue,3,Saloon,80890,600,987,05-10-1997,52500,01-Jan-12,Green
+Rolls Royce,Camargue,1,Saloon,80890,450,321,06-08-2005,52500,01-Jan-12,Red
+Rolls Royce,Camargue,7,Saloon,80890,200,987,06-01-1997,52500,01-Jan-12,Black
+Rolls Royce,Camargue,1,Saloon,80890,300,321,06-01-1997,52500,01-Jan-12,Red
+Rolls Royce,Camargue,8,Saloon,67000,300,654,5/25/2007,52500,01-Jan-12,British Racing Green
+Jaguar,XK,5,Saloon,30000,2570,987,06-01-1997,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,3,Saloon,42500,2570,1250,9/20/2006,52500,01-Jan-12,Green
+Bentley,Continental,5,Saloon,30700,2570,1250,9/20/2006,52500,01-Jan-12,Canary Yellow
+Bentley,Continental,8,Saloon,30700,2570,987,05-09-2007,52500,01-Jan-12,British Racing Green
+Bentley,Continental,8,Saloon,67000,2570,486,9/20/2006,52500,01-Jan-12,British Racing Green
+Bentley,Continental,7,Saloon,67000,2570,486,9/20/2006,52500,01-Jan-12,Black
+Bentley,Continental,6,Saloon,30700,2570,486,9/20/2006,52500,01-Jan-12,Night Blue
+Jaguar,XK,5,Saloon,30700,250,250,9/20/2005,52500,01-Jan-12,Canary Yellow
+Jaguar,XK,4,Saloon,30700,250,250,9/20/2005,52500,01-Jan-12,Silver
+Bentley,Continental,9,Convertible,25700,1950,486,9/20/2006,65250,01-Jan-12,Dark Purple
+Aston Martin,DB7,1,Convertible,31125,895,1250,04-05-2007,52000,01-Jan-12,Red
+Aston Martin,DB7,2,Convertible,17500,895,1250,04-05-2007,52000,01-Jan-12,Blue
+Bentley,Turbo R,5,Convertible,25700,2570,486,9/20/2006,65250,01-Jan-12,Canary Yellow
+Aston Martin,Vantage,4,Convertible,17500,895,1250,04-05-2007,67000,01-Jan-12,Silver
+Aston Martin,DB7,4,Convertible,22500,895,950,04-05-2009,52000,01-Jan-12,Silver
+Aston Martin,DB9,5,Convertible,17500,895,1250,04-05-2001,52000,01-Jan-12,Canary Yellow
+Bentley,Continental,9,Convertible,30700,1950,486,9/20/2006,65250,01-Jan-12,Dark Purple
+Bentley,Turbo R,5,Convertible,30700,2570,486,9/20/2006,65250,01-Jan-12,Canary Yellow
+Aston Martin,DB7,1,Convertible,36125,895,1250,04-05-2007,52000,01-Jan-12,Red
+Aston Martin,Vantage,4,Convertible,22500,895,1250,04-05-2007,67000,01-Jan-12,Silver
+Aston Martin,DB7,2,Convertible,22500,895,1250,04-05-2007,52000,01-Jan-12,Blue
+Aston Martin,DB7,4,Convertible,27500,895,950,04-05-2009,52000,01-Jan-12,Silver
+Aston Martin,DB9,5,Convertible,22500,895,1250,04-05-2001,52000,01-Jan-12,Canary Yellow
+Bentley,Continental,9,Convertible,30700,1950,486,9/20/2006,65250,01-Jan-12,Dark Purple
+Bentley,Continental,5,Convertible,30700,2570,486,9/20/2006,65250,01-Jan-12,Canary Yellow
+Aston Martin,DB9,1,Convertible,36125,895,1250,04-05-2007,52000,01-Jan-12,Red
+Aston Martin,DB9,4,Convertible,22500,895,1250,04-05-2007,67000,01-Jan-12,Silver
+Aston Martin,DB9,2,Convertible,22500,895,1250,04-05-2007,52000,01-Jan-12,Blue
+Aston Martin,DB9,4,Convertible,27500,895,950,04-05-2009,52000,01-Jan-12,Silver
+Aston Martin,DBS,2,Coupe,75000,600,550,05-09-2007,75000,01-Jan-12,Blue
+Aston Martin,DBS,9,Coupe,56000,900,550,08-09-1991,75000,01-Jan-12,Dark Purple
+Aston Martin,DB9,2,Coupe,15500,900,750,09-08-2005,9950,01-Jan-12,Blue
+Aston Martin,DB9,4,Coupe,75890,750,750,05-08-1993,28750,01-Jan-12,Silver
+Aston Martin,Vantage,5,Coupe,125000,750,750,1/15/1985,75000,01-Jan-12,Canary Yellow
+Aston Martin,Vanquish,6,Coupe,125000,600,750,3/29/1979,127220,01-Jan-12,Night Blue
+Aston Martin,Zagato,8,Coupe,125000,600,570,06-04-1994,8000,01-Jan-12,British Racing Green
+Aston Martin,DB9,7,Coupe,75890,500,852,05-04-2006,65250,01-Jan-12,Black
+Aston Martin,DB9,2,Coupe,62000,950,895,05-09-2007,15000,01-Jan-12,Blue
+Aston Martin,Vanquish,1,Coupe,62000,1400,325,09-01-2001,127220,01-Jan-12,Red
+Aston Martin,Rapide,1,Coupe,125000,1560,658,9/20/2006,17500,01-Jan-12,Red
+Jaguar,XK,6,Coupe,37500,1950,486,09-01-2000,127220,01-Jan-12,Night Blue
+Jaguar,XK,8,Coupe,25000,1950,987,06-01-1997,28750,01-Jan-12,British Racing Green
+Jaguar,XK,9,Coupe,37500,1950,987,9/20/2006,127220,01-Jan-12,Dark Purple
+Jaguar,XK,7,Coupe,12500,1950,750,9/20/2006,28750,01-Jan-12,Black
+Bentley,Continental,5,Coupe,62000,1950,987,05-09-2007,9850,01-Jan-12,Canary Yellow
+Bentley,Continental,3,Coupe,25700,1950,750,05-09-2007,28750,01-Jan-12,Green
+Jaguar,XK,1,Coupe,37500,400,486,05-09-2007,127220,01-Jan-12,Red
+Jaguar,XK,4,Coupe,25700,250,250,9/20/2005,28750,01-Jan-12,Silver
+MGB,GT,1,Coupe,8500,250,325,9/20/1976,65250,01-Jan-12,Red
+MGB,GT,6,Coupe,4500,400,325,9/20/1976,65250,01-Jan-12,Night Blue
+Triumph,TR5,5,Coupe,17000,250,325,9/20/1976,65250,01-Jan-12,Canary Yellow
+Aston Martin,DB7,2,Coupe,17500,750,1250,04-05-2005,33000,01-Jan-12,Blue
+Aston Martin,Vantage,3,Coupe,22500,895,950,04-05-2007,52000,01-Jan-12,Green
+Rolls Royce,Camargue,5,Coupe,31125,895,1250,04-05-2003,61000,01-Jan-12,Canary Yellow
+Aston Martin,DB7,6,Coupe,17500,500,950,04-05-2005,52000,01-Jan-12,Night Blue
+Aston Martin,Vantage,1,Coupe,17500,500,1250,04-05-2007,52000,01-Jan-12,Red
+Aston Martin,Vantage,3,Coupe,17500,750,1250,04-05-2007,161000,01-Jan-12,Green
+Aston Martin,Vantage,5,Coupe,17500,500,1250,04-05-2007,33000,01-Jan-12,Canary Yellow
+Aston Martin,DB7,7,Coupe,22500,500,1250,04-05-2007,52000,01-Jan-12,Black
+Aston Martin,DB9,1,Coupe,17500,500,1250,04-05-2003,61000,01-Jan-12,Red
+Aston Martin,DB9,3,Coupe,31125,895,1250,04-05-2007,33000,01-Jan-12,Green
+Aston Martin,DB7,4,Coupe,17500,750,1250,04-05-2003,52000,01-Jan-12,Silver
+Aston Martin,DBS,2,Coupe,80000,600,550,05-09-2007,75000,01-Jan-12,Blue
+Aston Martin,DBS,9,Coupe,61000,900,550,08-09-1991,75000,01-Jan-12,Dark Purple
+Aston Martin,DB9,2,Coupe,20500,900,750,09-08-2005,9950,01-Jan-12,Blue
+Aston Martin,DB9,4,Coupe,80890,750,750,05-08-1993,28750,01-Jan-12,Silver
+Aston Martin,Vantage,5,Coupe,130000,750,750,1/15/1985,75000,01-Jan-12,Canary Yellow
+Aston Martin,Vanquish,4,Coupe,130000,600,750,3/29/1979,127220,01-Jan-12,Silver
+Aston Martin,Zagato,8,Coupe,130000,600,570,06-04-1994,8000,01-Jan-12,British Racing Green
+Aston Martin,DB9,7,Coupe,80890,500,852,05-04-2006,65250,01-Jan-12,Black
+Aston Martin,DB9,5,Coupe,67000,950,895,05-09-2007,15000,01-Jan-12,Canary Yellow
+Aston Martin,Vanquish,1,Coupe,67000,1400,325,09-01-2001,127220,01-Jan-12,Red
+Aston Martin,Rapide,1,Coupe,130000,1560,658,9/20/2006,17500,01-Jan-12,Red
+Jaguar,XK,5,Coupe,42500,1950,486,09-01-2000,127220,01-Jan-12,Canary Yellow
+Jaguar,XK,8,Coupe,30000,1950,987,06-01-1997,28750,01-Jan-12,British Racing Green
+Jaguar,XK,9,Coupe,42500,1950,987,9/20/2006,127220,01-Jan-12,Dark Purple
+Jaguar,XK,7,Coupe,17500,1950,750,9/20/2006,28750,01-Jan-12,Black
+Bentley,Continental,5,Coupe,67000,1950,987,05-09-2007,9850,01-Jan-12,Canary Yellow
+Bentley,Continental,3,Coupe,30700,1950,750,05-09-2007,28750,01-Jan-12,Green
+Jaguar,XK,1,Coupe,42500,400,486,05-09-2007,127220,01-Jan-12,Red
+Jaguar,XK,4,Coupe,30700,250,250,9/20/2005,28750,01-Jan-12,Silver
+MGB,GT,1,Coupe,13500,250,325,9/20/1976,65250,01-Jan-12,Red
+MGB,GT,6,Coupe,9500,400,325,9/20/1976,65250,01-Jan-12,Night Blue
+Triumph,TR5,5,Coupe,22000,250,325,9/20/1976,65250,01-Jan-12,Canary Yellow
+Aston Martin,DB7,2,Coupe,22500,750,1250,04-05-2005,33000,01-Jan-12,Blue
+Aston Martin,Vantage,3,Coupe,27500,895,950,04-05-2007,52000,01-Jan-12,Green
+Rolls Royce,Camargue,5,Coupe,36125,895,1250,04-05-2003,61000,01-Jan-12,Canary Yellow
+Aston Martin,DB7,6,Coupe,22500,500,950,04-05-2005,52000,01-Jan-12,Night Blue
+Aston Martin,Vantage,1,Coupe,22500,500,1250,04-05-2007,52000,01-Jan-12,Red
+Aston Martin,Vantage,3,Coupe,22500,750,1250,04-05-2007,161000,01-Jan-12,Green
+Aston Martin,Vantage,5,Coupe,22500,500,1250,04-05-2007,33000,01-Jan-12,Canary Yellow
+Aston Martin,DB7,7,Coupe,27500,500,1250,04-05-2007,52000,01-Jan-12,Black
+Aston Martin,DB9,1,Coupe,22500,500,1250,04-05-2003,61000,01-Jan-12,Red
+Aston Martin,DB9,3,Coupe,36125,895,1250,04-05-2007,33000,01-Jan-12,Green
+Aston Martin,DB7,4,Coupe,22500,750,1250,04-05-2003,52000,01-Jan-12,Silver
+Aston Martin,DB9,2,Coupe,80000,600,550,05-09-2007,75000,01-Jan-12,Blue
+Aston Martin,DB9,9,Coupe,61000,900,550,08-09-1991,75000,01-Jan-12,Dark Purple
+Aston Martin,DB9,2,Coupe,20500,900,750,09-08-2005,9950,01-Jan-12,Blue
+Aston Martin,DB9,4,Coupe,80890,750,750,05-08-1993,28750,01-Jan-12,Silver
+Aston Martin,DB9,5,Coupe,130000,750,750,1/15/1985,75000,01-Jan-12,Canary Yellow
+Aston Martin,DB9,4,Coupe,130000,600,750,3/29/1979,127220,01-Jan-12,Silver
+Aston Martin,DB9,8,Coupe,130000,600,570,06-04-1994,8000,01-Jan-12,British Racing Green
+Aston Martin,DB9,7,Coupe,80890,500,852,05-04-2006,65250,01-Jan-12,Black
+Aston Martin,DB9,5,Coupe,67000,950,895,05-09-2007,15000,01-Jan-12,Canary Yellow
+Aston Martin,DB9,1,Coupe,67000,1400,325,09-01-2001,127220,01-Jan-12,Red
+Aston Martin,DB9,1,Coupe,130000,1560,658,9/20/2006,17500,01-Jan-12,Red
+Jaguar,XK,5,Coupe,42500,1950,486,09-01-2000,127220,01-Jan-12,Canary Yellow
+Jaguar,XK,8,Coupe,30000,1950,987,06-01-1997,28750,01-Jan-12,British Racing Green
+Jaguar,XK,9,Coupe,42500,1950,987,9/20/2006,127220,01-Jan-12,Dark Purple
+Jaguar,XK,7,Coupe,17500,1950,750,9/20/2006,28750,01-Jan-12,Black
+Bentley,Continental,5,Coupe,67000,1950,987,05-09-2007,9850,01-Jan-12,Canary Yellow
+Bentley,Continental,3,Coupe,30700,1950,750,05-09-2007,28750,01-Jan-12,Green
+Jaguar,XK,1,Coupe,42500,400,486,05-09-2007,127220,01-Jan-12,Red
+Jaguar,XK,4,Coupe,30700,250,250,9/20/2005,28750,01-Jan-12,Silver
+MGB,GT,1,Coupe,13500,250,325,9/20/1976,65250,01-Jan-12,Red
+MGB,GT,6,Coupe,9500,400,325,9/20/1976,65250,01-Jan-12,Night Blue
+Triumph,TR4,5,Coupe,22000,250,325,9/20/1976,65250,01-Jan-12,Canary Yellow
+Aston Martin,DB9,2,Coupe,22500,750,1250,04-05-2005,33000,01-Jan-12,Blue
+Aston Martin,DB9,3,Coupe,27500,895,950,04-05-2007,52000,01-Jan-12,Green
+Rolls Royce,Camargue,5,Coupe,36125,895,1250,04-05-2003,61000,01-Jan-12,Canary Yellow
+Aston Martin,DB9,6,Coupe,22500,500,950,04-05-2005,52000,01-Jan-12,Night Blue
+Aston Martin,DB9,1,Coupe,22500,500,1250,04-05-2007,52000,01-Jan-12,Red
+Aston Martin,DB9,3,Coupe,22500,750,1250,04-05-2007,161000,01-Jan-12,Green
+Aston Martin,DB9,5,Coupe,22500,500,1250,04-05-2007,33000,01-Jan-12,Canary Yellow
+Aston Martin,DB9,7,Coupe,27500,500,1250,04-05-2007,52000,01-Jan-12,Black
+Aston Martin,DB9,1,Coupe,22500,500,1250,04-05-2003,61000,01-Jan-12,Red
+Aston Martin,DB9,3,Coupe,36125,895,1250,04-05-2007,33000,01-Jan-12,Green
+Aston Martin,DB9,4,Coupe,22500,750,1250,04-05-2003,52000,01-Jan-12,Silver
+Rolls Royce,Silver Ghost,2,Saloon,88000,85,550,01-05-1987,127220,01-Jan-12,Blue
+Rolls Royce,Camargue,8,Saloon,125000,4000,550,05-06-1986,28750,01-Jan-12,British Racing Green
+Rolls Royce,Wraith,4,Saloon,62000,600,654,09-01-2000,65250,01-Jan-12,Silver
+Rolls Royce,Camargue,2,Saloon,62000,600,654,09-01-2001,28750,01-Jan-12,Blue
+Rolls Royce,Silver Ghost,7,Saloon,62000,400,987,05-05-2001,127220,01-Jan-12,Black
+Rolls Royce,Camargue,9,Saloon,75890,200,654,05-04-2006,7500,01-Jan-12,Dark Purple
+Jaguar,XJ12,2,Saloon,50000,2570,486,06-01-1997,65250,01-Jan-12,Blue
+Jaguar,XJ6,8,Saloon,37500,2570,987,06-01-1997,28750,01-Jan-12,British Racing Green
+Bentley,Continental,2,Saloon,25700,2570,1250,9/20/2006,16525,01-Jan-12,Blue
+Bentley,Azure,1,Saloon,25700,2570,987,9/20/2006,127220,01-Jan-12,Red
+Bentley,Turbo R,1,Saloon,25700,2570,1250,05-09-2007,17000,01-Jan-12,Red
+Bentley,Azure,7,Saloon,25700,1950,1250,05-09-2007,18695,01-Jan-12,Black
+Bentley,Continental,6,Saloon,62000,1950,987,05-09-2007,28750,01-Jan-12,Night Blue
+Jaguar,XK,3,Saloon,37500,400,325,9/20/2006,127220,01-Jan-12,Green
+Jaguar,XJ6,2,Saloon,37500,400,325,9/20/2006,65250,01-Jan-12,Blue
+Jaguar,XJ6,9,Saloon,25700,250,250,9/20/2006,65250,01-Jan-12,Dark Purple
+Jaguar,XJ6,8,Saloon,25700,250,250,9/20/2005,65250,01-Jan-12,British Racing Green
+Jaguar,XJ6,7,Saloon,25700,250,250,9/20/2005,65250,01-Jan-12,Black
+Jaguar,XJ6,4,Saloon,25700,250,250,9/20/2005,28750,01-Jan-12,Silver
+Jaguar,XK,2,Saloon,62000,400,250,9/20/2005,28750,01-Jan-12,Blue
+Rolls Royce,Camargue,7,Saloon,22500,895,1250,04-05-2007,33000,01-Jan-12,Black
+Rolls Royce,Camargue,6,Saloon,17500,895,1250,04-05-2010,61000,01-Jan-12,Night Blue
+Rolls Royce,Camargue,2,Saloon,17500,895,950,04-05-2007,52000,01-Jan-12,Blue
+Rolls Royce,Silver Ghost,2,Saloon,93000,85,550,01-05-1987,127220,01-Jan-12,Blue
+Rolls Royce,Camargue,8,Saloon,130000,4000,550,05-06-1986,28750,01-Jan-12,British Racing Green
+Rolls Royce,Wraith,4,Saloon,67000,600,654,09-01-2000,65250,01-Jan-12,Silver
+Rolls Royce,Camargue,7,Saloon,67000,600,654,09-01-2001,28750,01-Jan-12,Black
+Rolls Royce,Silver Ghost,7,Saloon,67000,400,987,05-05-2001,127220,01-Jan-12,Black
+Rolls Royce,Camargue,9,Saloon,80890,200,654,05-04-2006,7500,01-Jan-12,Dark Purple
+Jaguar,XJ12,2,Saloon,55000,2570,486,06-01-1997,65250,01-Jan-12,Blue
+Jaguar,XJ6,8,Saloon,42500,2570,987,06-01-1997,28750,01-Jan-12,British Racing Green
+Bentley,Continental,2,Saloon,30700,2570,1250,9/20/2006,16525,01-Jan-12,Blue
+Bentley,Azure,1,Saloon,30700,2570,987,9/20/2006,127220,01-Jan-12,Red
+Bentley,Turbo R,1,Saloon,30700,2570,1250,05-09-2007,17000,01-Jan-12,Red
+Bentley,Azure,7,Saloon,30700,1950,1250,05-09-2007,18695,01-Jan-12,Black
+Bentley,Continental,6,Saloon,67000,1950,987,05-09-2007,28750,01-Jan-12,Night Blue
+Jaguar,XK,1,Saloon,42500,400,325,9/20/2006,127220,01-Jan-12,Red
+Jaguar,XJ6,2,Saloon,42500,400,325,9/20/2006,65250,01-Jan-12,Blue
+Jaguar,XJ6,9,Saloon,30700,250,250,9/20/2006,65250,01-Jan-12,Dark Purple
+Jaguar,XJ6,8,Saloon,30700,250,250,9/20/2005,65250,01-Jan-12,British Racing Green
+Jaguar,XJ6,7,Saloon,30700,250,250,9/20/2005,65250,01-Jan-12,Black
+Jaguar,XJ6,4,Saloon,30700,250,250,9/20/2005,28750,01-Jan-12,Silver
+Jaguar,XK,2,Saloon,67000,400,250,9/20/2005,28750,01-Jan-12,Blue
+Rolls Royce,Camargue,7,Saloon,27500,895,1250,04-05-2007,33000,01-Jan-12,Black
+Rolls Royce,Camargue,9,Saloon,22500,895,1250,04-05-2010,61000,01-Jan-12,Dark Purple
+Rolls Royce,Camargue,2,Saloon,22500,895,950,04-05-2007,52000,01-Jan-12,Blue
+Rolls Royce,Camargue,2,Saloon,93000,85,550,01-05-1987,127220,01-Jan-12,Blue
+Rolls Royce,Camargue,8,Saloon,130000,4000,550,05-06-1986,28750,01-Jan-12,British Racing Green
+Rolls Royce,Camargue,4,Saloon,67000,600,654,09-01-2000,65250,01-Jan-12,Silver
+Rolls Royce,Camargue,7,Saloon,67000,600,654,09-01-2001,28750,01-Jan-12,Black
+Rolls Royce,Camargue,7,Saloon,67000,400,987,05-05-2001,127220,01-Jan-12,Black
+Rolls Royce,Camargue,9,Saloon,80890,200,654,05-04-2006,7500,01-Jan-12,Dark Purple
+Jaguar,XK,2,Saloon,55000,2570,486,06-01-1997,65250,01-Jan-12,Blue
+Jaguar,XK,8,Saloon,42500,2570,987,06-01-1997,28750,01-Jan-12,British Racing Green
+Bentley,Continental,2,Saloon,30700,2570,1250,9/20/2006,16525,01-Jan-12,Blue
+Bentley,Continental,1,Saloon,30700,2570,987,9/20/2006,127220,01-Jan-12,Red
+Bentley,Continental,1,Saloon,30700,2570,1250,05-09-2007,17000,01-Jan-12,Red
+Bentley,Continental,7,Saloon,30700,1950,1250,05-09-2007,18695,01-Jan-12,Black
+Bentley,Continental,6,Saloon,67000,1950,987,05-09-2007,28750,01-Jan-12,Night Blue
+Jaguar,XK,1,Saloon,42500,400,325,9/20/2006,127220,01-Jan-12,Red
+Jaguar,XK,2,Saloon,42500,400,325,9/20/2006,65250,01-Jan-12,Blue
+Jaguar,XK,9,Saloon,30700,250,250,9/20/2006,65250,01-Jan-12,Dark Purple
+Jaguar,XK,8,Saloon,30700,250,250,9/20/2005,65250,01-Jan-12,British Racing Green
+Jaguar,XK,7,Saloon,30700,250,250,9/20/2005,65250,01-Jan-12,Black
+Jaguar,XK,4,Saloon,30700,250,250,9/20/2005,28750,01-Jan-12,Silver
+Jaguar,XK,2,Saloon,67000,400,250,9/20/2005,28750,01-Jan-12,Blue
+Rolls Royce,Camargue,7,Saloon,27500,895,1250,04-05-2007,33000,01-Jan-12,Black
+Rolls Royce,Camargue,9,Saloon,22500,895,1250,04-05-2010,61000,01-Jan-12,Dark Purple
+Rolls Royce,Camargue,2,Saloon,22500,895,950,04-05-2007,52000,01-Jan-12,Blue
